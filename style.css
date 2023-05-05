@@ -1,0 +1,51 @@
+html {
+  background: url("img/ghibli.jpg") no-repeat center fixed;
+  background-size: cover;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+.pink1 {
+  color: rgb(255, 255, 255);
+}
+
+.pink2 {
+  color: rgb(222, 222, 222);
+}
+
+.linc {
+  color: rgb(189, 210, 250);
+}
+
+.about {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgb(67, 67, 133);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+
+.hound {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+}
+
+.quiz {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgb(67, 67, 133);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  background-color: rgb(178, 178, 253);
+  border-radius: 5px;
+}
